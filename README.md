@@ -31,8 +31,4 @@ You'll be testing **Sauce Demo** - a sample e-commerce application:
 2. Complete the assignment in `submission/` folder
 3. Share the github repo
 
-## Questions?
-
-Email hiring@dgbet.fun
-
 Good luck!
